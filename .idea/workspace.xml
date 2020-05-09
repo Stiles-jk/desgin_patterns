@@ -2,63 +2,45 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="35c5f97a-f820-43f9-ab31-725090f138f8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/zstu/command/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/zstu/command/Command.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/zstu/command/LightOffCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/zstu/command/LightOnCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/zstu/command/LightReceiver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/zstu/command/NoCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/zstu/command/RemoteController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/zstu/command/TVOffCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/zstu/command/TVOnCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/zstu/command/TVReceiver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/zstu/iterator/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/zstu/iterator/College.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/zstu/iterator/ComputerCollege.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/zstu/iterator/ComputerCollegeIterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/zstu/iterator/Department.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/zstu/iterator/InfoCollege.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/zstu/iterator/InfoCollegeIterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/zstu/iterator/OutputImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/zstu/mediator/Alarm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/zstu/mediator/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/zstu/mediator/CoffeeMachine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/zstu/mediator/Colleague.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/zstu/mediator/Curtain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/zstu/mediator/Mediator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/zstu/mediator/TV.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/zstu/mediator/concreteMediator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/zstu/observer/BaiDuSite.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/zstu/observer/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/zstu/observer/CurrentConditions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/zstu/observer/Observer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/zstu/observer/Subject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/zstu/observer/WeatherData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/zstu/proxy_pattern/dynamic_proxy/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/zstu/proxy_pattern/dynamic_proxy/ITeacherDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/zstu/proxy_pattern/dynamic_proxy/ProxyFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/zstu/proxy_pattern/dynamic_proxy/TeacherDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/zstu/proxy_pattern/static_proxy/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/zstu/proxy_pattern/static_proxy/ITeacherDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/zstu/proxy_pattern/static_proxy/TeacherDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/zstu/proxy_pattern/static_proxy/TeacherDaoProxy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/zstu/template/BlackBeanSoyMilk.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/zstu/template/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/zstu/template/PennutSoyMilk.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/zstu/template/Soy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/zstu/template/SoyMilk.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/zstu/visitor/Action.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/zstu/visitor/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/zstu/visitor/Fail.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/zstu/visitor/Man.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/zstu/visitor/ObjectStructure.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/zstu/visitor/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/zstu/visitor/Success.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/zstu/visitor/Wait.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/zstu/visitor/Woman.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zstu/interpreter/AddExpression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zstu/interpreter/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zstu/interpreter/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zstu/interpreter/Expression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zstu/interpreter/SubExpression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zstu/interpreter/SymbolExpression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zstu/interpreter/VarExpression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zstu/memento/Caretaker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zstu/memento/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zstu/memento/GameRole.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zstu/memento/Memento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zstu/responsibility_chain/Approve.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zstu/responsibility_chain/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zstu/responsibility_chain/CollegeApprove.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zstu/responsibility_chain/DepartmentApprove.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zstu/responsibility_chain/PurchaseRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zstu/responsibility_chain/SchoolMasterApprove.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zstu/responsibility_chain/ViceSchoolMaster.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zstu/state/CanRaffleState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zstu/state/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zstu/state/DispenseOutState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zstu/state/DispenseState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zstu/state/NoRaffleState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zstu/state/RaffleActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zstu/state/State.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zstu/strategy/BadFlyBehavior.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zstu/strategy/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zstu/strategy/Duck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zstu/strategy/FlyBehavior.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zstu/strategy/GaGaQuackBehavior.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zstu/strategy/GeGeQuackBehavior.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zstu/strategy/GoodFlyBehavior.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zstu/strategy/NoFlyBehavior.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zstu/strategy/NoQuackBehavior.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zstu/strategy/PekingDuck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zstu/strategy/QuackBehavior.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zstu/strategy/ToyDuck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zstu/strategy/WildDuck.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/designpattern/test/Demo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/designpattern/test/Demo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/Demo.java" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -126,13 +108,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Client (4)">
-    <configuration name="Client (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.zstu.command.Client" />
+  <component name="RunManager" selected="Application.Client">
+    <configuration name="Client (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zstu.memento.Client" />
       <module name="designpattern" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.zstu.command.*" />
+          <option name="PATTERN" value="com.zstu.memento.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Client (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zstu.interpreter.Client" />
+      <module name="designpattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zstu.interpreter.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -141,24 +136,11 @@
       </method>
     </configuration>
     <configuration name="Client (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.zstu.visitor.Client" />
+      <option name="MAIN_CLASS_NAME" value="com.zstu.state.Client" />
       <module name="designpattern" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.zstu.visitor.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Client (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.zstu.mediator.Client" />
-      <module name="designpattern" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.zstu.mediator.*" />
+          <option name="PATTERN" value="com.zstu.state.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -167,11 +149,11 @@
       </method>
     </configuration>
     <configuration name="Client (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.zstu.iterator.Client" />
+      <option name="MAIN_CLASS_NAME" value="com.zstu.strategy.Client" />
       <module name="designpattern" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.zstu.iterator.*" />
+          <option name="PATTERN" value="com.zstu.strategy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -180,11 +162,11 @@
       </method>
     </configuration>
     <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.zstu.observer.Client" />
+      <option name="MAIN_CLASS_NAME" value="com.zstu.responsibility_chain.Client" />
       <module name="designpattern" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.zstu.observer.*" />
+          <option name="PATTERN" value="com.zstu.responsibility_chain.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -194,11 +176,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Client (4)" />
         <item itemvalue="Application.Client" />
         <item itemvalue="Application.Client (5)" />
         <item itemvalue="Application.Client (3)" />
         <item itemvalue="Application.Client (2)" />
+        <item itemvalue="Application.Client (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -224,7 +206,16 @@
       <workItem from="1588489515768" duration="3892000" />
       <workItem from="1588659670957" duration="1535000" />
       <workItem from="1588899632882" duration="22570000" />
+      <workItem from="1588986706764" duration="19575000" />
     </task>
+    <task id="LOCAL-00001" summary="截止到中介者模式">
+      <created>1588986778600</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1588986778600</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -243,6 +234,10 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="截止到中介者模式" />
+    <option name="LAST_COMMIT_MESSAGE" value="截止到中介者模式" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
@@ -250,6 +245,11 @@
           <url>file://$PROJECT_DIR$/src/com/zstu/composite/Client.java</url>
           <line>23</line>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/zstu/state/Client.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="8" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
