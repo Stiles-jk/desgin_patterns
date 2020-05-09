@@ -1,7 +1,65 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="35c5f97a-f820-43f9-ab31-725090f138f8" name="Default Changelist" comment="" />
+    <list default="true" id="35c5f97a-f820-43f9-ab31-725090f138f8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/zstu/command/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zstu/command/Command.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zstu/command/LightOffCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zstu/command/LightOnCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zstu/command/LightReceiver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zstu/command/NoCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zstu/command/RemoteController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zstu/command/TVOffCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zstu/command/TVOnCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zstu/command/TVReceiver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zstu/iterator/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zstu/iterator/College.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zstu/iterator/ComputerCollege.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zstu/iterator/ComputerCollegeIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zstu/iterator/Department.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zstu/iterator/InfoCollege.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zstu/iterator/InfoCollegeIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zstu/iterator/OutputImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zstu/mediator/Alarm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zstu/mediator/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zstu/mediator/CoffeeMachine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zstu/mediator/Colleague.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zstu/mediator/Curtain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zstu/mediator/Mediator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zstu/mediator/TV.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zstu/mediator/concreteMediator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zstu/observer/BaiDuSite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zstu/observer/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zstu/observer/CurrentConditions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zstu/observer/Observer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zstu/observer/Subject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zstu/observer/WeatherData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zstu/proxy_pattern/dynamic_proxy/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zstu/proxy_pattern/dynamic_proxy/ITeacherDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zstu/proxy_pattern/dynamic_proxy/ProxyFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zstu/proxy_pattern/dynamic_proxy/TeacherDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zstu/proxy_pattern/static_proxy/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zstu/proxy_pattern/static_proxy/ITeacherDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zstu/proxy_pattern/static_proxy/TeacherDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zstu/proxy_pattern/static_proxy/TeacherDaoProxy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zstu/template/BlackBeanSoyMilk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zstu/template/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zstu/template/PennutSoyMilk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zstu/template/Soy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zstu/template/SoyMilk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zstu/visitor/Action.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zstu/visitor/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zstu/visitor/Fail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zstu/visitor/Man.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zstu/visitor/ObjectStructure.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zstu/visitor/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zstu/visitor/Success.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zstu/visitor/Wait.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zstu/visitor/Woman.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/designpattern/test/Demo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/designpattern/test/Demo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/Demo.java" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,6 +73,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -31,6 +92,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1aqrhAdGc0hhNJVbmyPIc5decZU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -41,14 +103,15 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="com.zstu.flyweight" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.zstu.adapter.object_adapter" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\IDEA_WorkSpace\designpattern\src\com\zstu\factory_pattern\abstruct_factory" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.zstu.observer" />
+      <recent name="com.zstu.adapter.object_adapter" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.zstu.flyweight" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -63,26 +126,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Client (3)">
-    <configuration name="Client (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.zstu.composite.Client" />
-      <module name="designpattern" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.zstu.composite.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Client (4)">
     <configuration name="Client (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.zstu.facade.Client" />
+      <option name="MAIN_CLASS_NAME" value="com.zstu.command.Client" />
       <module name="designpattern" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.zstu.facade.*" />
+          <option name="PATTERN" value="com.zstu.command.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,11 +141,37 @@
       </method>
     </configuration>
     <configuration name="Client (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.zstu.flyweight.Client" />
+      <option name="MAIN_CLASS_NAME" value="com.zstu.visitor.Client" />
       <module name="designpattern" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.zstu.flyweight.*" />
+          <option name="PATTERN" value="com.zstu.visitor.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Client (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zstu.mediator.Client" />
+      <module name="designpattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zstu.mediator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Client (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zstu.iterator.Client" />
+      <module name="designpattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zstu.iterator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,24 +180,11 @@
       </method>
     </configuration>
     <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.zstu.bridge.Client" />
+      <option name="MAIN_CLASS_NAME" value="com.zstu.observer.Client" />
       <module name="designpattern" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.zstu.bridge.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CoffeeBar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.zstu.decorator.CoffeeBar" />
-      <module name="designpattern" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.zstu.decorator.*" />
+          <option name="PATTERN" value="com.zstu.observer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,11 +194,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Client (4)" />
+        <item itemvalue="Application.Client" />
+        <item itemvalue="Application.Client (5)" />
         <item itemvalue="Application.Client (3)" />
         <item itemvalue="Application.Client (2)" />
-        <item itemvalue="Application.Client (1)" />
-        <item itemvalue="Application.CoffeeBar" />
-        <item itemvalue="Application.Client" />
       </list>
     </recent_temporary>
   </component>
@@ -158,11 +221,27 @@
       <workItem from="1588164978486" duration="11040000" />
       <workItem from="1588313211708" duration="11286000" />
       <workItem from="1588399314804" duration="7404000" />
+      <workItem from="1588489515768" duration="3892000" />
+      <workItem from="1588659670957" duration="1535000" />
+      <workItem from="1588899632882" duration="22570000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
